@@ -1,0 +1,17 @@
+{
+  "empdata": [],
+  "signupUsers": [
+    {
+      "emp_name": "amit",
+      "emp_email": "amitohol9@gmail.com",
+      "emp_pass": "amit",
+      "id": 1
+    },
+    {
+      "emp_name": "sanjay",
+      "emp_email": "sanjay@gmail.com",
+      "emp_pass": "sanjay",
+      "id": 2
+    }
+  ]
+}

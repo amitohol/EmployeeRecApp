@@ -1,0 +1,8 @@
+.bg-nav {
+    background: linear-gradient(45deg, red, blue);
+}
+
+.collapse form button {
+    border-color: ivory;
+    color: ivory;
+}

@@ -1,0 +1,32 @@
+.card {
+    margin-top: 10px;
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(45deg, red, blue);
+}
+
+.card h1,
+label {
+    color: #fff;
+}
+
+.card {
+    border-radius: 50px;
+    box-shadow: 11px 13px 28px -10px rgba(0, 0, 0, 0.76);
+    -webkit-box-shadow: 11px 13px 28px -10px rgba(0, 0, 0, 0.76);
+    -moz-box-shadow: 11px 13px 28px -10px rgba(0, 0, 0, 0.76);
+}
+
+#bottomsignup a {
+    color: #fff;
+    text-decoration: none;
+}
+
+button {
+    border-radius: 8px;
+}
